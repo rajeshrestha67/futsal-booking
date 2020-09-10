@@ -35,6 +35,7 @@
                 android:hint="@string/username"
                 android:inputType="text"
                 android:padding="30dp"
+                android:text="demofutsal123"
                 android:textSize="20sp" />
         </com.google.android.material.textfield.TextInputLayout>
 
@@ -55,6 +56,7 @@
                 android:drawableLeft="@drawable/ic_lock_black_24dp"
                 android:drawablePadding="20dp"
                 android:hint="@string/password"
+                android:text="d@rk_legend"
                 android:inputType="textPassword"
                 android:padding="30dp"
                 android:textSize="20sp"

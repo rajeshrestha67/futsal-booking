@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#345bdb</color>
-    <color name="colorPrimaryDark">#6790BA</color>
-    <color name="colorAccent">#000026</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
     <color name="cardViewColor">#4B7BA3</color>
 
     <color name="colorPrimaryNight">#4886C5</color>
@@ -81,4 +81,3 @@
     <color name="app_yellow_dark">#F09300</color>
     <color name="app_red">#DB4437</color>
 </resources>
-
