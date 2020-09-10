@@ -1,0 +1,63 @@
+package com.futsalrecord.futsalApp.model;
+
+public class Staffs {
+    private String staffFullName, staffEmail, staffPhoneNo, staffGender, staffAddress;
+    private int staffImageId;
+
+    public Staffs(String staffFullName, String staffEmail, String staffPhoneNo, String staffGender, String staffAddress, int staffImageId) {
+        this.staffFullName = staffFullName;
+        this.staffEmail = staffEmail;
+        this.staffPhoneNo = staffPhoneNo;
+        this.staffGender = staffGender;
+        this.staffAddress = staffAddress;
+        this.staffImageId = staffImageId;
+    }
+
+    public String getStaffFullName() {
+        return staffFullName;
+    }
+
+    public void setStaffFullName(String staffFullName) {
+        this.staffFullName = staffFullName;
+    }
+
+    public String getStaffEmail() {
+        return staffEmail;
+    }
+
+    public void setStaffEmail(String staffEmail) {
+        this.staffEmail = staffEmail;
+    }
+
+    public String getStaffPhoneNo() {
+        return staffPhoneNo;
+    }
+
+    public void setStaffPhoneNo(String staffPhoneNo) {
+        this.staffPhoneNo = staffPhoneNo;
+    }
+
+    public String getStaffGender() {
+        return staffGender;
+    }
+
+    public void setStaffGender(String staffGender) {
+        this.staffGender = staffGender;
+    }
+
+    public int getStaffImageId() {
+        return staffImageId;
+    }
+
+    public void setStaffImageId(int staffImageId) {
+        this.staffImageId = staffImageId;
+    }
+
+    public String getStaffAddress() {
+        return staffAddress;
+    }
+
+    public void setStaffAddress(String staffAddress) {
+        this.staffAddress = staffAddress;
+    }
+}
